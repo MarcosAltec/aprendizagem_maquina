@@ -1,0 +1,9 @@
+Fruta,Quantidade
+maçã,0
+banana,68
+laranja,32
+uva,12
+maçã,97
+melão,39
+mamão,83
+banana,37
