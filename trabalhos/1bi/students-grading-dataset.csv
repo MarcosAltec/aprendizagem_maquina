@@ -1,0 +1,21 @@
+id,nome,genero,educacao_dos_pais,nota_media,attendance,horas_de_sono,nota_final,idade,midterm_Score
+1,Aluno1,Masculino,Ensino Fundamental,6.38,,9,5.04,17,9.16
+2,Aluno2,Masculino,Ensino Superior,8.02,,7,7.39,21,6.17
+3,Aluno3,Masculino,Ensino Superior,7.08,,5,8.97,25,9.14
+4,Aluno4,Masculino,,5.47,98,5,7.94,22,9.38
+5,Aluno5,Feminino,Ensino Fundamental,9.27,,7,7.19,23,6.25
+6,Aluno6,Feminino,Ensino Médio,8.08,67,10,8.04,22,8.89
+7,Aluno7,Feminino,Ensino Médio,9.03,,7,5.41,22,9.95
+8,Aluno8,Feminino,Ensino Médio,8.84,57,6,7.75,20,5.4
+9,Aluno9,Masculino,,6.12,59,5,9.12,22,7.79
+10,Aluno10,Masculino,Ensino Médio,7.87,60,6,8.35,23,7.76
+11,Aluno11,Masculino,Ensino Médio,9.62,,6,7.62,17,8.17
+12,Aluno12,Feminino,Ensino Fundamental,7.71,,7,6.14,25,10.0
+13,Aluno13,Masculino,Ensino Médio,8.89,90,9,7.12,18,7.95
+14,Aluno14,Feminino,Ensino Médio,8.16,84,4,6.45,25,5.63
+15,Aluno15,Feminino,Ensino Fundamental,8.4,62,5,7.16,16,6.26
+16,Aluno16,Feminino,Ensino Superior,5.85,82,7,5.51,19,5.48
+17,Aluno17,Feminino,Ensino Superior,5.93,54,9,9.73,16,8.84
+18,Aluno18,Masculino,Ensino Superior,5.38,88,7,9.49,17,9.22
+19,Aluno19,Feminino,Ensino Fundamental,8.79,66,6,6.07,15,6.94
+20,Aluno20,Feminino,,5.82,71,5,9.53,17,7.43
