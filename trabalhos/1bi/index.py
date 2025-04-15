@@ -16,7 +16,7 @@ logging.basicConfig(
 logging.info(f"Usuário {nome_usuario} iniciou o programa.")
 
 # Neste bloco é solicitado ao usuário o caminho para leitura do arquivo com os dados.
-# Primeiro valida o diretório se é válido e segundo testa a extenção do arquivo.
+# Solicita o caminho do arquivo e valida sua existência e extensão (.csv ou .json)
 # Caso o usuário queira abortar a execução poderá utilizar o comando digitando 's'.
 while True: 
 
@@ -38,12 +38,39 @@ while True:
             logging.warning(f"Formato inválido fornecido: {caminho_arquivo}")
             print("Formato de arquivo inválido! Use CSV ou JSON")
             continue
+
+        # ✅ Lista com as colunas esperadas
+        colunas_esperadas = [
+            "id",
+            "nome",
+            "genero",
+            "educacao_dos_pais",
+            "nota_media",
+            "attendance",
+            "horas_de_sono",
+            "nota_final",
+            "idade",
+            "midterm_Score"
+        ]
+
+        # ✅ Verificação de colunas obrigatórias
+        colunas_faltando = [col for col in colunas_esperadas if col not in df.columns]
+
+        if colunas_faltando:
+            print("⚠️ Erro: As seguintes colunas obrigatórias estão ausentes no arquivo:")
+            for col in colunas_faltando:
+                print(f"- {col}")
+            logging.error(f"Colunas ausentes no arquivo: {colunas_faltando}")
+            sys.exit()
+        else:
+            logging.info("✅ Todas as colunas obrigatórias estão presentes no arquivo.")
         break
     else:
         logging.error(f"Arquivo não encontrado: {caminho_arquivo}")
         print("Erro: O arquivo não foi encontrado! Verifique o caminho e tente novamente")
 
 total_registros = df.shape[0]
+
 if "genero" in df.columns:
     quantidade_generos = df["genero"].value_counts()
 else:
@@ -81,10 +108,7 @@ print(f"Somatório de presença após ajuste: {df['attendance'].sum()}")
 colunas_numericas = df.select_dtypes(include=["number"]).columns.tolist()
 
 if "id" in colunas_numericas:
-    """
-    Esse script remove a coluna 'id'.
-    Por ela ser numérica será considerada nos cálculos de media, moda e mediana.
-    """
+    # Remove a coluna 'id' para que ela não seja analisada nas estatísticas
     colunas_numericas.remove("id")
 
 
@@ -117,7 +141,8 @@ while True:
         logging.info(
             f"Estatísticas geradas para a coluna '{coluna_escolhida}': "
             f"Média={media:.2f}, Mediana={mediana:.2f}, Moda={moda}, "
-            f"Desvio Padrão={desvio_padrao:.2f}")
+            f"Desvio Padrão={desvio_padrao:.2f}"
+        )
 
         print(f"\nEstatísticas da coluna '{coluna_escolhida}':")
         print(f"- Média: {media:.2f}")
@@ -160,5 +185,15 @@ plt.pie(faixas_etarias, labels=faixas_etarias.index, autopct="%1.1f%%", colors=[
 plt.title("Distribuição das Idades (Agrupadas)")
 plt.show()
 logging.info("Gráfico de pizza gerado: Distribuição das Idades Agrupadas.")
+
+salvar = input("Deseja salvar o DataFrame final em um novo CSV? (S/N): ").strip().lower()
+
+if salvar == "s":
+    """
+    Salva os dados processados pelo programa.
+    """
+    df.to_csv("dados_processados.csv", index=False)
+    print("Arquivo salvo como 'dados_processados.csv'.")
+    logging.info("Arquivo final salvo com sucesso.")
 
 logging.info("Execução do programa concluída com sucesso.")
