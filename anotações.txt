@@ -1,0 +1,19 @@
+Foundation models
+    Machine Learning
+        Deep Learning
+            Foundation Models
+
+LLM e FM são siglas que se referem a conceitos importantes no campo da inteligência artificial.
+    LLM (Large Language Model)
+    FM (Foundation Model)
+
+Pontos básicos do SCIKIT
+    Scikit-learn é uma das bibliotecas mais populares de aprendizado de máquina em Python. Ela fornece ferramentas eficientes para tarefas como classificação, regressão, agrupamento e redução de dimensionalidade.
+    1- estimators
+    2- massa de dados de aprendizagem
+    3- treinamento, metodo fit
+    4- pergunta, predict
+
+data frame = conjunto de dados
+dicionario = conjunto de valores pares
+bunch = subclasse do dicionario

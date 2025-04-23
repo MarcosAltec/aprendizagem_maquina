@@ -1,0 +1,1001 @@
+id,nome,genero,educacao_dos_pais,nota_media,attendance,horas_de_sono,nota_final,idade,midterm_Score
+1,Aluno1,Masculino,Ensino Superior,9.56,67,10,7.03,18,9.11
+2,Aluno2,Feminino,,6.09,73,8,9.48,15,6.02
+3,Aluno3,Feminino,Ensino Fundamental,7.71,78,6,7.98,15,9.37
+4,Aluno4,Masculino,,5.18,98,6,9.66,22,5.79
+5,Aluno5,Masculino,Ensino Superior,8.05,84,5,5.04,18,7.14
+6,Aluno6,Masculino,,7.81,98,9,9.99,24,6.79
+7,Aluno7,Feminino,Ensino Fundamental,8.86,79,6,7.25,22,6.25
+8,Aluno8,Feminino,Ensino Fundamental,5.63,90,7,7.85,17,7.65
+9,Aluno9,Feminino,Ensino Médio,6.59,67,7,9.13,15,5.47
+10,Aluno10,Masculino,Ensino Fundamental,6.16,77,7,9.22,18,7.43
+11,Aluno11,Masculino,Ensino Fundamental,7.99,66,6,6.86,18,9.95
+12,Aluno12,Feminino,Ensino Fundamental,5.31,97,10,6.82,16,9.39
+13,Aluno13,Feminino,Ensino Fundamental,8.46,94,6,8.25,22,6.9
+14,Aluno14,Masculino,Ensino Superior,8.73,62,4,9.93,18,9.27
+15,Aluno15,Masculino,Ensino Superior,6.44,65,8,5.34,21,9.61
+16,Aluno16,Feminino,Ensino Fundamental,5.89,65,10,8.54,25,8.3
+17,Aluno17,Masculino,,9.53,98,10,7.05,23,9.94
+18,Aluno18,Masculino,Ensino Superior,5.64,100,10,7.07,25,8.71
+19,Aluno19,Masculino,Ensino Fundamental,6.78,64,8,8.78,21,7.58
+20,Aluno20,Feminino,Ensino Fundamental,9.54,67,7,5.33,24,9.03
+21,Aluno21,Masculino,Ensino Superior,7.15,85,8,8.45,16,5.32
+22,Aluno22,Masculino,,8.9,98,7,8.85,15,6.71
+23,Aluno23,Masculino,,7.92,98,10,8.59,18,8.56
+24,Aluno24,Feminino,Ensino Fundamental,6.37,96,6,5.8,23,5.53
+25,Aluno25,Masculino,,8.48,69,9,8.29,18,5.84
+26,Aluno26,Feminino,Ensino Fundamental,8.06,69,9,8.79,15,9.81
+27,Aluno27,Feminino,Ensino Médio,5.51,67,9,7.76,17,7.84
+28,Aluno28,Feminino,Ensino Médio,7.35,67,10,5.75,24,9.65
+29,Aluno29,Feminino,Ensino Fundamental,6.34,99,6,5.04,20,8.73
+30,Aluno30,Masculino,Ensino Fundamental,6.95,85,10,8.45,17,9.9
+31,Aluno31,Masculino,,9.7,74,5,5.71,24,9.19
+32,Aluno32,Feminino,Ensino Médio,7.98,67,7,5.78,17,9.25
+33,Aluno33,Feminino,Ensino Fundamental,9.82,82,7,9.98,22,8.54
+34,Aluno34,Masculino,Ensino Fundamental,5.3,69,4,8.29,25,8.6
+35,Aluno35,Masculino,Ensino Superior,8.02,55,8,6.81,21,6.41
+36,Aluno36,Masculino,,5.2,98,7,9.38,24,9.72
+37,Aluno37,Masculino,Ensino Superior,7.08,64,6,6.76,16,8.12
+38,Aluno38,Masculino,,9.46,98,4,9.25,20,6.71
+39,Aluno39,Masculino,Ensino Fundamental,5.51,89,4,7.63,15,5.4
+40,Aluno40,Masculino,Ensino Superior,6.63,62,10,5.18,20,7.19
+41,Aluno41,Feminino,Ensino Médio,5.14,67,10,7.54,21,5.15
+42,Aluno42,Feminino,Ensino Médio,6.04,67,9,5.8,23,6.76
+43,Aluno43,Masculino,Ensino Superior,9.98,91,8,8.78,23,8.32
+44,Aluno44,Masculino,,5.89,98,6,9.33,24,5.88
+45,Aluno45,Masculino,Ensino Superior,8.02,87,5,9.42,19,7.64
+46,Aluno46,Feminino,Ensino Médio,5.48,67,9,8.92,19,9.13
+47,Aluno47,Masculino,,8.22,99,4,8.57,22,5.32
+48,Aluno48,Feminino,Ensino Fundamental,5.18,55,4,6.94,21,8.11
+49,Aluno49,Masculino,,8.5,98,6,7.18,23,9.19
+50,Aluno50,Feminino,Ensino Fundamental,5.72,91,8,8.95,19,8.31
+51,Aluno51,Feminino,Ensino Médio,5.32,67,4,7.77,22,8.7
+52,Aluno52,Masculino,Ensino Fundamental,9.55,68,10,5.79,23,5.76
+53,Aluno53,Masculino,Ensino Superior,6.15,98,6,7.98,20,8.98
+54,Aluno54,Masculino,,9.9,66,5,6.82,22,6.06
+55,Aluno55,Masculino,Ensino Superior,7.48,52,4,5.68,21,9.06
+56,Aluno56,Masculino,,5.96,67,5,7.76,22,8.69
+57,Aluno57,Masculino,Ensino Superior,6.69,96,10,5.58,18,8.17
+58,Aluno58,Feminino,Ensino Médio,7.46,67,9,8.04,23,8.62
+59,Aluno59,Masculino,Ensino Fundamental,5.05,90,6,6.42,18,5.63
+60,Aluno60,Masculino,,7.12,98,9,7.57,18,6.91
+61,Aluno61,Feminino,Ensino Médio,5.64,67,7,9.46,15,5.81
+62,Aluno62,Masculino,,8.57,98,9,5.88,24,7.11
+63,Aluno63,Masculino,Ensino Superior,9.53,66,8,7.39,17,8.23
+64,Aluno64,Feminino,Ensino Médio,8.53,67,8,5.06,18,5.45
+65,Aluno65,Masculino,,6.42,98,10,7.0,19,5.21
+66,Aluno66,Masculino,Ensino Superior,7.29,100,8,8.47,23,5.75
+67,Aluno67,Masculino,Ensino Superior,9.33,88,8,5.54,19,6.31
+68,Aluno68,Masculino,,5.45,79,4,7.93,16,5.94
+69,Aluno69,Masculino,,7.41,98,4,9.95,25,8.92
+70,Aluno70,Feminino,Ensino Médio,6.48,67,8,5.5,19,7.93
+71,Aluno71,Feminino,,8.83,96,4,9.57,19,7.03
+72,Aluno72,Masculino,,8.7,98,4,6.53,20,6.45
+73,Aluno73,Masculino,,5.56,98,10,6.09,25,9.48
+74,Aluno74,Masculino,Ensino Superior,9.46,85,6,9.66,19,5.0
+75,Aluno75,Feminino,Ensino Fundamental,5.06,52,5,8.89,15,9.6
+76,Aluno76,Masculino,,8.3,98,4,9.41,21,6.58
+77,Aluno77,Feminino,Ensino Fundamental,8.95,95,6,6.26,15,6.09
+78,Aluno78,Masculino,Ensino Superior,9.35,52,8,9.75,23,7.47
+79,Aluno79,Masculino,Ensino Superior,8.39,59,5,7.93,24,9.08
+80,Aluno80,Feminino,Ensino Médio,7.2,67,6,8.29,16,9.41
+81,Aluno81,Masculino,Ensino Superior,6.16,58,10,8.9,23,9.29
+82,Aluno82,Masculino,Ensino Superior,6.94,60,4,6.19,17,7.14
+83,Aluno83,Masculino,Ensino Superior,5.13,55,5,6.68,16,8.07
+84,Aluno84,Masculino,Ensino Superior,9.48,72,6,6.51,17,8.97
+85,Aluno85,Masculino,Ensino Superior,9.91,82,5,7.76,22,8.07
+86,Aluno86,Masculino,Ensino Superior,7.15,75,4,9.73,24,7.45
+87,Aluno87,Masculino,Ensino Superior,9.01,72,9,6.76,15,8.38
+88,Aluno88,Masculino,Ensino Superior,7.57,68,9,9.38,16,6.73
+89,Aluno89,Masculino,Ensino Fundamental,8.91,94,8,5.17,24,9.01
+90,Aluno90,Masculino,Ensino Superior,6.8,67,7,8.56,16,9.54
+91,Aluno91,Masculino,,8.49,81,10,9.82,20,8.81
+92,Aluno92,Feminino,Ensino Fundamental,5.83,58,9,8.87,16,9.28
+93,Aluno93,Masculino,Ensino Fundamental,7.38,59,5,6.54,16,8.87
+94,Aluno94,Masculino,,7.29,72,5,9.27,15,6.65
+95,Aluno95,Masculino,Ensino Superior,6.41,76,8,8.08,23,5.01
+96,Aluno96,Masculino,Ensino Superior,9.62,61,8,5.58,18,5.55
+97,Aluno97,Masculino,Ensino Fundamental,6.1,82,5,5.06,23,9.65
+98,Aluno98,Feminino,Ensino Fundamental,8.67,83,7,5.48,22,5.78
+99,Aluno99,Masculino,,6.01,98,4,8.22,15,9.39
+100,Aluno100,Masculino,Ensino Superior,6.64,71,7,8.1,22,7.76
+101,Aluno101,Masculino,Ensino Fundamental,8.38,64,4,5.03,25,6.15
+102,Aluno102,Masculino,,9.95,98,8,6.42,17,5.1
+103,Aluno103,Feminino,Ensino Fundamental,6.97,100,5,9.71,18,5.43
+104,Aluno104,Masculino,Ensino Superior,7.48,60,6,5.27,20,8.52
+105,Aluno105,Masculino,,9.59,98,4,6.07,20,9.87
+106,Aluno106,Masculino,Ensino Superior,5.92,79,5,9.44,19,7.88
+107,Aluno107,Feminino,Ensino Médio,7.95,67,6,5.72,19,6.28
+108,Aluno108,Masculino,Ensino Superior,7.96,61,5,6.07,17,8.18
+109,Aluno109,Masculino,Ensino Superior,5.64,98,6,7.94,25,5.72
+110,Aluno110,Feminino,,7.08,99,9,7.75,17,6.23
+111,Aluno111,Masculino,Ensino Fundamental,7.8,77,6,6.48,18,8.73
+112,Aluno112,Masculino,,7.93,98,10,6.42,15,6.44
+113,Aluno113,Masculino,Ensino Superior,7.09,79,4,5.86,25,8.0
+114,Aluno114,Feminino,Ensino Fundamental,5.01,61,8,7.05,22,6.26
+115,Aluno115,Masculino,Ensino Superior,9.06,70,7,6.63,23,5.41
+116,Aluno116,Masculino,Ensino Fundamental,6.5,71,8,7.76,20,8.34
+117,Aluno117,Masculino,Ensino Superior,8.81,99,6,7.75,25,9.26
+118,Aluno118,Feminino,Ensino Médio,7.43,67,8,7.49,21,9.28
+119,Aluno119,Feminino,Ensino Médio,6.41,67,4,5.81,25,9.76
+120,Aluno120,Feminino,,6.19,67,10,9.82,15,9.97
+121,Aluno121,Feminino,,5.71,67,7,7.3,22,8.94
+122,Aluno122,Masculino,,6.83,98,4,6.96,17,8.14
+123,Aluno123,Masculino,,6.79,98,8,7.83,16,9.08
+124,Aluno124,Feminino,Ensino Fundamental,7.02,90,7,5.55,23,5.27
+125,Aluno125,Masculino,Ensino Fundamental,7.42,92,8,5.95,23,7.27
+126,Aluno126,Feminino,Ensino Fundamental,9.66,64,5,8.83,20,5.97
+127,Aluno127,Masculino,,7.9,77,5,8.12,24,8.78
+128,Aluno128,Feminino,Ensino Fundamental,6.94,61,8,9.36,15,8.35
+129,Aluno129,Feminino,Ensino Médio,5.53,67,4,6.8,20,9.27
+130,Aluno130,Masculino,Ensino Superior,8.83,58,4,6.99,20,9.47
+131,Aluno131,Masculino,,5.73,98,5,7.79,18,5.9
+132,Aluno132,Masculino,,8.77,69,7,5.55,25,8.99
+133,Aluno133,Masculino,,6.68,98,5,7.81,21,9.34
+134,Aluno134,Feminino,Ensino Fundamental,9.23,53,8,7.29,15,8.85
+135,Aluno135,Masculino,Ensino Superior,6.99,96,10,5.13,22,6.03
+136,Aluno136,Masculino,Ensino Superior,9.45,91,10,9.37,25,8.1
+137,Aluno137,Masculino,Ensino Fundamental,9.12,53,7,8.64,15,6.55
+138,Aluno138,Masculino,,5.56,98,8,8.28,18,7.51
+139,Aluno139,Masculino,,7.72,98,4,8.81,19,5.17
+140,Aluno140,Masculino,Ensino Superior,5.97,61,4,6.87,25,8.86
+141,Aluno141,Feminino,Ensino Fundamental,5.26,52,8,5.63,17,5.03
+142,Aluno142,Masculino,Ensino Fundamental,6.2,87,5,5.09,22,7.76
+143,Aluno143,Masculino,Ensino Superior,9.37,61,9,6.35,25,5.13
+144,Aluno144,Feminino,Ensino Médio,5.75,67,4,7.9,15,7.91
+145,Aluno145,Masculino,Ensino Superior,5.66,86,5,7.37,16,6.53
+146,Aluno146,Feminino,Ensino Médio,8.82,67,6,9.07,15,9.61
+147,Aluno147,Feminino,Ensino Médio,6.38,67,6,9.06,24,5.69
+148,Aluno148,Feminino,Ensino Médio,6.06,67,6,5.42,23,7.51
+149,Aluno149,Masculino,Ensino Superior,8.47,78,10,5.86,18,9.0
+150,Aluno150,Masculino,Ensino Fundamental,8.51,90,6,9.24,25,6.77
+151,Aluno151,Feminino,Ensino Fundamental,7.55,80,10,7.42,24,6.96
+152,Aluno152,Feminino,Ensino Fundamental,9.84,55,4,7.19,18,8.16
+153,Aluno153,Masculino,Ensino Superior,5.87,99,8,8.36,19,5.87
+154,Aluno154,Masculino,Ensino Fundamental,6.39,70,5,5.02,24,9.15
+155,Aluno155,Feminino,Ensino Fundamental,7.03,54,9,5.95,16,9.18
+156,Aluno156,Masculino,,6.33,83,7,9.63,22,9.72
+157,Aluno157,Masculino,Ensino Superior,8.06,64,6,6.75,22,5.24
+158,Aluno158,Masculino,,9.32,98,6,5.67,23,8.55
+159,Aluno159,Feminino,Ensino Fundamental,5.56,82,5,7.18,23,9.79
+160,Aluno160,Masculino,Ensino Superior,6.6,88,7,9.59,21,8.68
+161,Aluno161,Masculino,Ensino Fundamental,9.99,84,4,8.42,24,6.24
+162,Aluno162,Masculino,Ensino Superior,9.29,90,5,9.48,22,6.25
+163,Aluno163,Feminino,Ensino Fundamental,9.8,65,8,5.72,19,9.08
+164,Aluno164,Masculino,,7.45,98,8,6.94,16,8.69
+165,Aluno165,Feminino,Ensino Fundamental,7.24,54,6,9.77,18,7.54
+166,Aluno166,Masculino,Ensino Superior,8.54,73,7,8.22,16,7.9
+167,Aluno167,Masculino,,5.04,98,6,7.86,16,9.41
+168,Aluno168,Masculino,,6.86,98,7,9.17,24,7.18
+169,Aluno169,Masculino,,5.37,98,8,7.52,16,7.72
+170,Aluno170,Feminino,Ensino Médio,9.89,67,6,8.0,22,6.62
+171,Aluno171,Feminino,Ensino Médio,8.8,67,10,7.65,15,8.11
+172,Aluno172,Masculino,,5.91,95,9,8.57,15,9.78
+173,Aluno173,Masculino,Ensino Superior,9.22,79,7,6.32,16,9.36
+174,Aluno174,Masculino,Ensino Superior,9.92,75,6,5.24,19,6.67
+175,Aluno175,Masculino,Ensino Superior,5.7,97,5,5.69,21,9.16
+176,Aluno176,Feminino,Ensino Fundamental,7.57,65,4,8.11,16,8.94
+177,Aluno177,Masculino,Ensino Superior,9.96,99,10,5.17,19,9.01
+178,Aluno178,Masculino,Ensino Superior,8.65,57,8,6.54,24,7.09
+179,Aluno179,Feminino,Ensino Fundamental,5.96,79,6,6.3,15,6.21
+180,Aluno180,Masculino,Ensino Superior,6.53,93,7,7.06,17,8.51
+181,Aluno181,Feminino,,6.52,67,10,6.72,21,6.32
+182,Aluno182,Feminino,Ensino Fundamental,9.64,59,7,8.75,20,9.04
+183,Aluno183,Masculino,Ensino Fundamental,7.18,58,5,6.35,25,7.76
+184,Aluno184,Masculino,Ensino Fundamental,6.05,70,10,9.68,19,5.67
+185,Aluno185,Feminino,Ensino Fundamental,7.13,71,9,8.58,21,5.39
+186,Aluno186,Feminino,Ensino Fundamental,5.89,70,5,8.28,21,9.9
+187,Aluno187,Masculino,Ensino Fundamental,6.72,71,8,9.11,21,7.5
+188,Aluno188,Masculino,,7.31,98,5,8.86,16,9.33
+189,Aluno189,Masculino,,9.12,62,10,8.54,21,5.25
+190,Aluno190,Masculino,,5.14,90,7,5.2,23,9.38
+191,Aluno191,Masculino,,6.85,98,9,6.31,23,7.65
+192,Aluno192,Masculino,Ensino Superior,5.0,88,9,5.97,19,8.65
+193,Aluno193,Masculino,Ensino Superior,7.72,78,8,6.39,18,9.88
+194,Aluno194,Masculino,Ensino Fundamental,7.55,92,7,5.77,22,7.41
+195,Aluno195,Feminino,Ensino Médio,9.59,67,6,7.63,19,5.47
+196,Aluno196,Masculino,,5.02,98,8,8.93,18,9.71
+197,Aluno197,Masculino,Ensino Fundamental,7.85,57,4,5.22,25,8.8
+198,Aluno198,Masculino,,5.48,55,6,5.67,16,8.14
+199,Aluno199,Masculino,Ensino Superior,9.77,90,7,7.89,20,7.16
+200,Aluno200,Masculino,Ensino Superior,6.83,70,8,7.4,23,9.54
+201,Aluno201,Masculino,Ensino Fundamental,8.52,91,4,7.2,25,6.54
+202,Aluno202,Feminino,Ensino Fundamental,7.22,53,4,6.2,23,6.74
+203,Aluno203,Feminino,Ensino Fundamental,7.34,52,10,7.43,24,8.03
+204,Aluno204,Feminino,Ensino Fundamental,5.03,90,10,5.46,16,9.24
+205,Aluno205,Masculino,Ensino Superior,9.64,83,10,7.37,20,8.87
+206,Aluno206,Masculino,Ensino Superior,8.15,97,9,6.36,23,5.55
+207,Aluno207,Feminino,Ensino Médio,7.94,67,6,5.15,19,6.11
+208,Aluno208,Masculino,Ensino Superior,6.73,59,5,8.36,15,9.64
+209,Aluno209,Feminino,Ensino Médio,7.4,67,4,9.2,25,7.25
+210,Aluno210,Feminino,Ensino Fundamental,7.61,94,4,9.97,22,8.84
+211,Aluno211,Masculino,Ensino Fundamental,6.07,75,10,7.2,19,7.13
+212,Aluno212,Masculino,Ensino Superior,7.53,80,5,8.34,21,7.22
+213,Aluno213,Feminino,Ensino Médio,6.49,67,7,6.24,18,5.4
+214,Aluno214,Masculino,,5.89,98,7,5.7,24,8.8
+215,Aluno215,Masculino,Ensino Superior,5.92,93,4,8.98,18,6.68
+216,Aluno216,Masculino,Ensino Superior,8.0,88,7,6.76,17,5.26
+217,Aluno217,Masculino,Ensino Fundamental,5.95,92,5,9.97,25,8.77
+218,Aluno218,Feminino,Ensino Médio,5.0,67,9,5.56,15,8.45
+219,Aluno219,Masculino,Ensino Superior,9.6,66,9,9.91,22,8.65
+220,Aluno220,Masculino,Ensino Fundamental,8.45,83,4,8.37,22,6.25
+221,Aluno221,Masculino,,5.92,93,4,6.1,15,9.07
+222,Aluno222,Masculino,Ensino Superior,5.91,50,5,5.27,17,6.7
+223,Aluno223,Feminino,,9.59,67,5,8.39,22,6.42
+224,Aluno224,Masculino,Ensino Fundamental,6.6,73,4,8.0,24,7.76
+225,Aluno225,Masculino,,8.03,98,10,8.94,16,7.34
+226,Aluno226,Feminino,Ensino Fundamental,7.34,92,7,9.74,23,9.74
+227,Aluno227,Feminino,Ensino Médio,8.33,67,10,9.91,24,8.53
+228,Aluno228,Masculino,Ensino Fundamental,8.28,72,7,7.51,25,8.07
+229,Aluno229,Masculino,Ensino Fundamental,6.1,56,9,8.74,17,8.67
+230,Aluno230,Feminino,Ensino Médio,7.15,67,10,5.76,16,6.36
+231,Aluno231,Masculino,Ensino Superior,6.69,92,7,7.4,21,7.44
+232,Aluno232,Masculino,,9.73,98,8,9.41,22,8.2
+233,Aluno233,Feminino,Ensino Fundamental,8.27,68,4,5.94,23,6.25
+234,Aluno234,Feminino,Ensino Fundamental,6.62,63,5,9.9,15,5.64
+235,Aluno235,Masculino,,6.55,98,9,8.76,20,9.47
+236,Aluno236,Masculino,Ensino Superior,7.24,56,10,9.19,15,8.83
+237,Aluno237,Masculino,Ensino Superior,8.8,85,8,5.42,23,6.32
+238,Aluno238,Masculino,Ensino Superior,7.33,100,5,6.78,15,7.18
+239,Aluno239,Masculino,,9.06,98,4,5.03,16,7.53
+240,Aluno240,Masculino,Ensino Fundamental,9.19,83,5,6.17,21,8.28
+241,Aluno241,Feminino,Ensino Médio,8.03,67,5,5.76,17,8.32
+242,Aluno242,Feminino,Ensino Fundamental,8.54,89,4,9.09,16,8.03
+243,Aluno243,Masculino,Ensino Superior,5.69,64,9,8.4,18,8.73
+244,Aluno244,Feminino,Ensino Médio,5.22,67,10,9.28,19,9.12
+245,Aluno245,Masculino,Ensino Superior,8.96,51,5,6.68,23,6.61
+246,Aluno246,Feminino,Ensino Médio,9.48,67,8,9.26,23,9.47
+247,Aluno247,Masculino,,5.28,98,10,5.28,21,9.42
+248,Aluno248,Feminino,Ensino Médio,9.88,67,5,7.45,19,8.89
+249,Aluno249,Masculino,Ensino Fundamental,8.82,52,4,9.67,17,6.17
+250,Aluno250,Masculino,Ensino Superior,9.41,57,5,6.16,20,5.2
+251,Aluno251,Feminino,Ensino Fundamental,9.25,66,7,9.28,19,5.13
+252,Aluno252,Feminino,Ensino Médio,9.76,67,4,6.86,22,5.54
+253,Aluno253,Feminino,Ensino Médio,5.62,67,10,8.01,24,7.39
+254,Aluno254,Masculino,Ensino Superior,9.89,64,10,8.34,24,6.55
+255,Aluno255,Masculino,Ensino Fundamental,9.98,52,6,7.35,24,9.1
+256,Aluno256,Feminino,Ensino Fundamental,8.48,56,9,6.84,21,9.22
+257,Aluno257,Feminino,Ensino Fundamental,7.54,63,6,8.68,21,5.3
+258,Aluno258,Masculino,Ensino Superior,7.26,97,6,6.81,21,8.69
+259,Aluno259,Masculino,Ensino Fundamental,6.46,54,9,7.9,18,8.33
+260,Aluno260,Masculino,,5.78,98,9,8.97,25,5.16
+261,Aluno261,Masculino,Ensino Superior,5.61,66,6,6.05,19,6.32
+262,Aluno262,Masculino,Ensino Fundamental,9.93,70,7,6.29,21,6.87
+263,Aluno263,Feminino,Ensino Médio,8.35,67,5,7.75,19,9.05
+264,Aluno264,Masculino,Ensino Fundamental,7.48,81,5,8.54,17,8.32
+265,Aluno265,Masculino,,6.56,94,4,7.51,22,6.14
+266,Aluno266,Masculino,,5.16,98,6,5.22,23,9.22
+267,Aluno267,Masculino,,5.09,98,5,7.03,18,8.92
+268,Aluno268,Masculino,Ensino Fundamental,7.83,69,10,8.55,23,7.89
+269,Aluno269,Masculino,,9.22,98,8,6.2,18,5.22
+270,Aluno270,Masculino,Ensino Fundamental,8.45,73,8,5.1,15,5.16
+271,Aluno271,Masculino,,6.25,98,10,7.51,15,6.75
+272,Aluno272,Masculino,,5.58,98,6,5.64,19,8.28
+273,Aluno273,Masculino,,7.26,98,8,9.48,25,9.94
+274,Aluno274,Feminino,Ensino Médio,6.25,67,5,9.69,19,8.54
+275,Aluno275,Masculino,Ensino Superior,9.37,68,7,6.08,22,7.67
+276,Aluno276,Masculino,Ensino Fundamental,5.39,87,5,5.45,23,6.64
+277,Aluno277,Masculino,Ensino Fundamental,6.83,91,6,8.65,17,6.79
+278,Aluno278,Masculino,Ensino Fundamental,6.41,57,9,9.75,16,6.14
+279,Aluno279,Masculino,,7.27,98,6,8.88,16,5.25
+280,Aluno280,Masculino,Ensino Superior,5.16,62,4,5.28,19,5.79
+281,Aluno281,Feminino,Ensino Fundamental,5.26,79,10,7.43,19,5.39
+282,Aluno282,Masculino,,7.9,98,8,7.74,24,7.69
+283,Aluno283,Masculino,,5.79,98,10,6.39,19,8.86
+284,Aluno284,Masculino,Ensino Superior,8.29,88,8,5.23,23,7.39
+285,Aluno285,Masculino,Ensino Superior,5.86,70,8,6.33,18,8.2
+286,Aluno286,Masculino,Ensino Superior,6.76,87,9,6.29,19,5.01
+287,Aluno287,Masculino,,7.59,98,4,8.26,22,6.71
+288,Aluno288,Masculino,,7.15,93,10,8.95,18,9.0
+289,Aluno289,Feminino,Ensino Fundamental,5.25,83,10,6.48,25,5.07
+290,Aluno290,Feminino,,6.42,80,10,5.92,19,5.61
+291,Aluno291,Masculino,,7.72,98,6,8.72,16,5.7
+292,Aluno292,Masculino,,5.1,60,10,7.42,17,7.91
+293,Aluno293,Masculino,Ensino Superior,9.68,90,9,8.66,16,7.69
+294,Aluno294,Feminino,Ensino Fundamental,7.8,100,5,7.36,23,8.3
+295,Aluno295,Feminino,Ensino Fundamental,7.8,96,7,5.46,17,6.36
+296,Aluno296,Masculino,Ensino Superior,7.31,98,9,9.55,18,5.73
+297,Aluno297,Feminino,Ensino Fundamental,9.05,66,5,9.76,24,7.43
+298,Aluno298,Feminino,Ensino Médio,7.87,67,6,7.15,23,8.39
+299,Aluno299,Masculino,Ensino Fundamental,8.19,83,8,8.26,18,9.89
+300,Aluno300,Masculino,Ensino Superior,6.68,83,4,9.99,22,7.99
+301,Aluno301,Feminino,Ensino Fundamental,5.47,61,4,8.46,18,7.24
+302,Aluno302,Masculino,,5.88,98,10,8.7,21,6.07
+303,Aluno303,Feminino,Ensino Médio,5.59,67,8,7.85,24,9.39
+304,Aluno304,Masculino,Ensino Fundamental,5.03,62,6,5.87,24,8.81
+305,Aluno305,Masculino,Ensino Superior,6.43,55,9,8.16,18,8.93
+306,Aluno306,Feminino,Ensino Médio,6.15,67,8,7.38,23,5.72
+307,Aluno307,Masculino,Ensino Superior,5.31,94,10,7.6,24,5.41
+308,Aluno308,Feminino,Ensino Fundamental,8.27,73,6,5.32,21,9.69
+309,Aluno309,Feminino,Ensino Médio,9.81,67,4,8.99,24,9.64
+310,Aluno310,Masculino,,8.93,98,6,7.38,15,7.77
+311,Aluno311,Masculino,Ensino Superior,6.02,50,9,5.13,25,9.85
+312,Aluno312,Masculino,Ensino Superior,7.1,80,8,5.03,17,7.06
+313,Aluno313,Masculino,Ensino Superior,6.84,50,10,5.5,25,5.75
+314,Aluno314,Masculino,Ensino Superior,7.9,61,9,6.32,15,8.47
+315,Aluno315,Masculino,Ensino Fundamental,6.85,92,6,8.06,16,9.6
+316,Aluno316,Feminino,Ensino Fundamental,8.1,66,9,8.26,16,5.78
+317,Aluno317,Feminino,Ensino Médio,7.22,67,4,9.81,17,7.21
+318,Aluno318,Feminino,Ensino Médio,5.65,67,5,7.59,19,7.42
+319,Aluno319,Masculino,,8.54,60,6,9.72,19,7.0
+320,Aluno320,Masculino,,9.61,98,4,5.71,22,5.43
+321,Aluno321,Feminino,Ensino Médio,8.93,67,5,7.47,17,8.08
+322,Aluno322,Masculino,Ensino Fundamental,5.05,69,6,9.06,18,7.41
+323,Aluno323,Masculino,Ensino Superior,9.95,63,7,5.06,22,9.59
+324,Aluno324,Feminino,Ensino Médio,5.46,67,7,9.18,15,5.03
+325,Aluno325,Masculino,,6.43,98,4,7.68,25,6.61
+326,Aluno326,Feminino,Ensino Médio,6.69,67,9,6.48,25,9.54
+327,Aluno327,Masculino,Ensino Fundamental,6.58,56,8,6.26,19,6.06
+328,Aluno328,Masculino,Ensino Superior,6.89,84,9,5.46,23,8.28
+329,Aluno329,Masculino,,8.36,98,4,5.35,15,8.19
+330,Aluno330,Masculino,Ensino Superior,8.12,61,4,7.22,18,7.48
+331,Aluno331,Feminino,Ensino Médio,9.47,67,9,8.69,23,8.61
+332,Aluno332,Masculino,Ensino Superior,8.4,61,5,6.55,16,6.54
+333,Aluno333,Feminino,Ensino Médio,5.38,67,4,6.24,20,8.54
+334,Aluno334,Feminino,Ensino Médio,5.86,67,9,6.02,17,7.35
+335,Aluno335,Masculino,,5.95,98,4,8.91,23,7.53
+336,Aluno336,Masculino,Ensino Fundamental,6.26,54,8,6.69,16,5.79
+337,Aluno337,Feminino,Ensino Médio,8.67,67,9,6.99,20,7.93
+338,Aluno338,Masculino,Ensino Fundamental,5.94,100,5,5.39,24,9.64
+339,Aluno339,Masculino,Ensino Superior,6.75,86,7,9.03,16,5.75
+340,Aluno340,Feminino,Ensino Fundamental,9.14,91,4,7.68,21,7.0
+341,Aluno341,Masculino,Ensino Fundamental,6.89,64,6,6.38,24,8.85
+342,Aluno342,Masculino,Ensino Superior,9.98,80,10,9.94,25,8.15
+343,Aluno343,Masculino,Ensino Superior,8.18,98,5,6.89,25,8.18
+344,Aluno344,Masculino,,6.56,93,8,7.02,17,6.0
+345,Aluno345,Masculino,,6.04,98,4,6.44,22,7.75
+346,Aluno346,Masculino,,5.22,98,7,7.2,19,5.19
+347,Aluno347,Feminino,Ensino Médio,7.58,67,10,6.19,19,7.09
+348,Aluno348,Masculino,,8.01,78,4,7.24,19,5.06
+349,Aluno349,Feminino,Ensino Médio,7.25,67,8,9.49,19,8.27
+350,Aluno350,Masculino,Ensino Fundamental,5.17,61,10,5.92,21,9.3
+351,Aluno351,Masculino,,5.42,63,8,7.43,18,9.27
+352,Aluno352,Masculino,,6.69,98,8,7.85,18,5.99
+353,Aluno353,Feminino,Ensino Fundamental,9.82,69,10,9.65,21,7.21
+354,Aluno354,Masculino,,5.06,98,8,7.55,17,5.46
+355,Aluno355,Masculino,,6.26,98,4,8.77,18,9.01
+356,Aluno356,Feminino,,8.82,67,8,6.9,17,9.27
+357,Aluno357,Masculino,Ensino Superior,5.42,63,7,7.77,25,9.94
+358,Aluno358,Masculino,,9.23,98,10,9.47,20,6.36
+359,Aluno359,Masculino,,8.39,98,9,6.39,22,7.45
+360,Aluno360,Feminino,Ensino Fundamental,5.48,86,6,8.05,15,5.13
+361,Aluno361,Feminino,Ensino Médio,7.48,67,10,8.49,17,9.13
+362,Aluno362,Masculino,Ensino Superior,9.97,55,10,7.0,23,5.49
+363,Aluno363,Feminino,Ensino Médio,9.19,67,4,7.46,24,8.61
+364,Aluno364,Feminino,Ensino Fundamental,8.2,94,10,5.47,15,6.73
+365,Aluno365,Feminino,Ensino Médio,9.49,67,4,7.6,17,6.03
+366,Aluno366,Feminino,Ensino Médio,5.3,67,4,5.26,25,9.01
+367,Aluno367,Masculino,Ensino Fundamental,7.54,65,9,7.62,19,8.65
+368,Aluno368,Masculino,,5.87,98,6,5.58,21,6.98
+369,Aluno369,Masculino,Ensino Fundamental,7.41,75,5,9.33,20,9.33
+370,Aluno370,Masculino,Ensino Superior,5.09,91,9,5.93,15,9.0
+371,Aluno371,Masculino,Ensino Superior,7.33,65,4,5.43,25,8.83
+372,Aluno372,Masculino,,5.33,98,4,7.55,15,7.04
+373,Aluno373,Masculino,Ensino Fundamental,6.06,73,4,8.81,21,8.85
+374,Aluno374,Masculino,Ensino Superior,7.34,75,8,9.49,20,6.62
+375,Aluno375,Masculino,Ensino Superior,6.35,88,7,5.99,21,9.17
+376,Aluno376,Feminino,Ensino Médio,6.9,67,9,6.84,17,6.36
+377,Aluno377,Feminino,Ensino Médio,6.13,67,6,8.93,15,6.49
+378,Aluno378,Feminino,Ensino Fundamental,8.02,95,8,6.81,22,8.18
+379,Aluno379,Masculino,,9.5,98,9,7.26,17,5.18
+380,Aluno380,Masculino,Ensino Fundamental,6.94,62,7,8.63,20,9.54
+381,Aluno381,Feminino,Ensino Fundamental,5.81,57,9,5.24,21,5.2
+382,Aluno382,Masculino,,6.92,98,10,7.07,20,8.7
+383,Aluno383,Feminino,Ensino Fundamental,7.84,73,6,7.07,20,8.99
+384,Aluno384,Feminino,Ensino Fundamental,9.06,82,7,6.9,18,8.32
+385,Aluno385,Masculino,,7.47,98,9,9.07,22,5.25
+386,Aluno386,Masculino,Ensino Superior,8.97,99,8,5.37,25,5.55
+387,Aluno387,Masculino,Ensino Superior,8.84,60,10,5.39,22,8.41
+388,Aluno388,Masculino,Ensino Superior,7.31,70,4,9.52,25,9.74
+389,Aluno389,Feminino,Ensino Médio,7.34,67,6,8.86,24,8.88
+390,Aluno390,Feminino,Ensino Médio,7.11,67,6,6.64,23,9.26
+391,Aluno391,Feminino,,7.89,96,5,7.67,22,6.98
+392,Aluno392,Masculino,,9.46,98,5,7.64,19,5.2
+393,Aluno393,Masculino,Ensino Superior,9.29,80,9,5.48,18,8.4
+394,Aluno394,Feminino,Ensino Médio,7.62,67,10,8.25,20,9.75
+395,Aluno395,Masculino,,5.11,74,9,5.76,22,6.32
+396,Aluno396,Masculino,Ensino Superior,9.89,70,7,7.34,16,7.36
+397,Aluno397,Feminino,Ensino Fundamental,6.51,67,8,7.16,18,5.21
+398,Aluno398,Masculino,Ensino Superior,8.41,85,6,5.2,17,8.05
+399,Aluno399,Masculino,Ensino Superior,9.96,51,4,5.42,23,9.85
+400,Aluno400,Masculino,Ensino Superior,8.61,80,6,5.64,16,7.29
+401,Aluno401,Feminino,Ensino Médio,7.77,67,9,9.39,16,6.42
+402,Aluno402,Masculino,Ensino Superior,9.54,95,4,9.88,21,8.51
+403,Aluno403,Masculino,Ensino Fundamental,7.7,92,8,8.9,25,9.88
+404,Aluno404,Feminino,Ensino Fundamental,5.15,74,10,7.92,22,6.29
+405,Aluno405,Masculino,,6.46,77,4,5.72,21,9.34
+406,Aluno406,Masculino,,6.29,98,4,8.21,25,9.57
+407,Aluno407,Masculino,Ensino Superior,8.46,78,7,7.51,18,5.09
+408,Aluno408,Feminino,Ensino Fundamental,8.59,66,8,6.71,15,8.42
+409,Aluno409,Masculino,,7.69,98,8,8.99,23,7.78
+410,Aluno410,Masculino,Ensino Superior,9.18,69,5,9.75,19,8.18
+411,Aluno411,Masculino,Ensino Superior,5.56,75,10,9.16,17,7.17
+412,Aluno412,Masculino,Ensino Fundamental,8.94,54,6,9.01,16,8.4
+413,Aluno413,Feminino,Ensino Médio,9.91,67,8,9.76,20,8.45
+414,Aluno414,Masculino,Ensino Superior,8.04,85,8,9.39,23,6.74
+415,Aluno415,Masculino,,5.77,71,7,8.48,20,6.38
+416,Aluno416,Feminino,Ensino Fundamental,8.59,95,10,7.59,17,9.39
+417,Aluno417,Feminino,,5.74,50,7,6.19,24,5.38
+418,Aluno418,Masculino,Ensino Superior,7.58,51,4,7.2,23,9.83
+419,Aluno419,Feminino,Ensino Médio,9.71,67,5,8.0,18,9.77
+420,Aluno420,Feminino,Ensino Fundamental,6.89,80,6,6.49,21,9.63
+421,Aluno421,Feminino,,9.76,67,7,5.9,22,7.23
+422,Aluno422,Masculino,Ensino Superior,8.54,57,9,7.33,16,7.53
+423,Aluno423,Masculino,,7.64,98,9,8.15,15,7.52
+424,Aluno424,Masculino,Ensino Superior,9.38,63,4,5.09,24,9.96
+425,Aluno425,Masculino,,8.7,98,9,7.41,19,6.4
+426,Aluno426,Feminino,Ensino Médio,9.62,67,7,5.22,16,7.68
+427,Aluno427,Masculino,Ensino Fundamental,6.13,51,6,7.33,25,8.27
+428,Aluno428,Masculino,Ensino Superior,6.56,78,8,7.32,24,9.55
+429,Aluno429,Feminino,Ensino Médio,9.26,67,5,8.46,20,8.34
+430,Aluno430,Feminino,,8.01,73,8,8.89,18,6.69
+431,Aluno431,Masculino,,7.35,98,10,5.28,16,7.04
+432,Aluno432,Masculino,Ensino Fundamental,7.94,73,4,8.9,22,6.03
+433,Aluno433,Masculino,Ensino Superior,8.08,51,10,5.98,25,7.16
+434,Aluno434,Masculino,Ensino Superior,9.35,96,7,7.77,18,8.12
+435,Aluno435,Feminino,Ensino Fundamental,8.65,81,10,9.59,17,8.11
+436,Aluno436,Masculino,Ensino Superior,5.11,60,7,7.69,21,7.94
+437,Aluno437,Masculino,Ensino Superior,6.93,57,9,9.91,21,5.77
+438,Aluno438,Feminino,Ensino Médio,5.01,67,6,6.08,21,8.64
+439,Aluno439,Masculino,Ensino Superior,8.4,100,4,8.6,22,6.28
+440,Aluno440,Feminino,,9.32,59,5,5.88,20,9.66
+441,Aluno441,Feminino,Ensino Fundamental,6.32,95,5,9.45,21,7.05
+442,Aluno442,Feminino,Ensino Fundamental,8.56,86,10,8.12,24,6.42
+443,Aluno443,Masculino,Ensino Superior,8.98,65,7,9.11,21,5.41
+444,Aluno444,Feminino,Ensino Médio,9.09,67,8,8.44,20,8.96
+445,Aluno445,Masculino,,9.09,78,5,9.52,18,6.72
+446,Aluno446,Feminino,Ensino Médio,8.58,67,4,5.25,20,8.66
+447,Aluno447,Masculino,Ensino Fundamental,6.24,79,10,7.08,21,7.13
+448,Aluno448,Feminino,Ensino Fundamental,7.93,68,5,8.39,22,5.45
+449,Aluno449,Feminino,Ensino Fundamental,6.41,84,10,9.08,18,7.06
+450,Aluno450,Feminino,Ensino Fundamental,5.37,72,8,9.9,25,6.75
+451,Aluno451,Masculino,Ensino Fundamental,6.84,63,9,8.45,22,9.59
+452,Aluno452,Masculino,,9.59,98,9,9.7,17,9.98
+453,Aluno453,Masculino,Ensino Superior,5.42,64,10,9.42,21,7.73
+454,Aluno454,Masculino,Ensino Fundamental,5.33,71,7,6.56,21,8.25
+455,Aluno455,Feminino,,8.51,67,9,6.95,21,7.79
+456,Aluno456,Masculino,,6.26,98,10,5.35,18,7.76
+457,Aluno457,Masculino,Ensino Fundamental,9.59,59,10,5.73,18,5.45
+458,Aluno458,Masculino,,8.04,98,10,8.3,22,5.2
+459,Aluno459,Feminino,,5.13,67,10,8.07,21,7.14
+460,Aluno460,Masculino,Ensino Fundamental,8.17,66,7,9.39,24,9.99
+461,Aluno461,Feminino,Ensino Médio,5.26,67,7,6.29,25,5.19
+462,Aluno462,Masculino,Ensino Superior,9.72,96,9,9.09,19,6.19
+463,Aluno463,Masculino,,6.68,90,10,9.46,17,6.22
+464,Aluno464,Masculino,,6.65,54,10,5.59,23,5.44
+465,Aluno465,Masculino,,9.39,98,9,5.96,20,9.43
+466,Aluno466,Masculino,,9.37,98,6,6.96,25,8.04
+467,Aluno467,Masculino,,7.17,98,6,6.94,16,9.27
+468,Aluno468,Feminino,,9.02,67,9,5.13,20,6.51
+469,Aluno469,Masculino,Ensino Superior,8.96,78,6,8.54,20,9.71
+470,Aluno470,Masculino,Ensino Superior,9.8,75,5,5.28,25,6.54
+471,Aluno471,Masculino,,9.99,98,10,6.62,17,6.47
+472,Aluno472,Feminino,Ensino Fundamental,9.07,52,6,6.73,22,9.88
+473,Aluno473,Masculino,,5.86,98,9,7.89,18,9.91
+474,Aluno474,Feminino,Ensino Médio,8.22,67,5,6.77,25,5.66
+475,Aluno475,Masculino,Ensino Superior,9.59,99,10,9.12,19,9.31
+476,Aluno476,Feminino,Ensino Médio,5.41,67,6,5.35,22,8.68
+477,Aluno477,Masculino,,7.44,98,6,9.78,22,5.76
+478,Aluno478,Masculino,Ensino Superior,6.66,80,9,9.89,25,8.33
+479,Aluno479,Masculino,,9.3,98,4,7.58,25,5.69
+480,Aluno480,Masculino,Ensino Fundamental,7.31,78,7,6.99,25,7.02
+481,Aluno481,Masculino,Ensino Fundamental,6.89,57,7,8.21,18,6.33
+482,Aluno482,Feminino,Ensino Fundamental,6.18,75,6,7.6,22,6.46
+483,Aluno483,Feminino,Ensino Médio,7.39,67,7,5.2,22,5.14
+484,Aluno484,Masculino,,5.75,98,4,5.37,22,7.54
+485,Aluno485,Masculino,Ensino Superior,7.89,92,4,6.1,21,7.8
+486,Aluno486,Masculino,,6.73,53,7,8.73,18,5.07
+487,Aluno487,Masculino,Ensino Fundamental,8.84,58,10,9.09,17,6.73
+488,Aluno488,Masculino,Ensino Superior,8.8,50,10,6.73,17,8.79
+489,Aluno489,Masculino,,5.14,98,7,6.33,24,7.67
+490,Aluno490,Feminino,Ensino Fundamental,6.51,55,7,7.69,23,9.61
+491,Aluno491,Feminino,Ensino Fundamental,9.55,91,4,8.53,20,5.57
+492,Aluno492,Masculino,Ensino Superior,9.02,99,8,9.06,16,8.59
+493,Aluno493,Masculino,,9.62,98,5,7.35,24,8.33
+494,Aluno494,Feminino,,8.52,97,4,7.92,22,9.14
+495,Aluno495,Masculino,Ensino Fundamental,6.48,98,5,6.99,16,9.23
+496,Aluno496,Masculino,,8.79,71,4,8.52,15,7.79
+497,Aluno497,Masculino,,7.26,98,6,6.95,16,5.03
+498,Aluno498,Masculino,,8.39,97,6,7.41,19,7.27
+499,Aluno499,Feminino,Ensino Médio,9.68,67,10,9.28,15,6.53
+500,Aluno500,Masculino,,6.82,98,9,8.97,19,8.99
+501,Aluno501,Feminino,Ensino Fundamental,5.37,84,6,7.13,21,9.23
+502,Aluno502,Masculino,Ensino Fundamental,5.04,92,10,8.05,18,9.31
+503,Aluno503,Masculino,,6.22,98,5,8.44,16,8.18
+504,Aluno504,Masculino,Ensino Superior,7.16,78,5,7.09,18,9.44
+505,Aluno505,Masculino,Ensino Superior,5.52,73,8,5.13,20,9.9
+506,Aluno506,Masculino,,7.01,98,5,9.37,20,8.9
+507,Aluno507,Feminino,Ensino Médio,5.25,67,4,7.41,18,9.09
+508,Aluno508,Feminino,Ensino Médio,5.58,67,5,5.39,16,5.23
+509,Aluno509,Masculino,Ensino Superior,9.23,89,10,8.89,17,9.87
+510,Aluno510,Masculino,Ensino Superior,7.91,55,5,5.91,21,7.13
+511,Aluno511,Feminino,Ensino Médio,5.13,67,10,5.31,17,8.55
+512,Aluno512,Feminino,Ensino Médio,7.39,67,5,7.17,23,8.16
+513,Aluno513,Feminino,Ensino Fundamental,8.56,81,7,6.66,21,6.95
+514,Aluno514,Masculino,,8.94,98,8,5.51,16,8.62
+515,Aluno515,Masculino,Ensino Fundamental,9.17,73,7,6.02,20,9.72
+516,Aluno516,Masculino,Ensino Superior,6.54,85,6,9.73,20,6.69
+517,Aluno517,Masculino,Ensino Superior,9.77,87,9,6.43,19,8.4
+518,Aluno518,Masculino,,9.42,95,10,8.47,23,5.12
+519,Aluno519,Masculino,Ensino Fundamental,8.72,51,7,7.08,24,8.35
+520,Aluno520,Feminino,Ensino Médio,6.98,67,9,8.34,22,9.67
+521,Aluno521,Feminino,Ensino Fundamental,6.85,85,5,6.02,24,6.23
+522,Aluno522,Masculino,,9.79,75,7,7.74,23,8.97
+523,Aluno523,Masculino,Ensino Superior,5.21,100,7,5.15,16,6.46
+524,Aluno524,Masculino,Ensino Superior,6.78,54,8,6.63,22,9.87
+525,Aluno525,Masculino,Ensino Fundamental,9.33,71,8,5.56,18,9.8
+526,Aluno526,Masculino,Ensino Fundamental,6.84,57,7,9.88,17,7.78
+527,Aluno527,Feminino,Ensino Médio,7.76,67,8,6.66,22,7.01
+528,Aluno528,Masculino,Ensino Fundamental,6.08,85,9,7.6,22,5.07
+529,Aluno529,Masculino,Ensino Superior,7.61,72,9,6.71,15,5.04
+530,Aluno530,Masculino,Ensino Superior,5.79,57,8,5.6,16,5.06
+531,Aluno531,Feminino,Ensino Fundamental,7.65,60,10,8.55,24,8.86
+532,Aluno532,Masculino,Ensino Superior,8.19,99,9,8.62,16,5.22
+533,Aluno533,Feminino,Ensino Fundamental,7.39,69,10,7.22,18,8.83
+534,Aluno534,Masculino,,6.12,57,5,7.91,22,6.52
+535,Aluno535,Masculino,Ensino Superior,8.51,92,7,7.08,15,9.15
+536,Aluno536,Masculino,Ensino Fundamental,8.95,82,6,7.74,20,6.17
+537,Aluno537,Masculino,Ensino Fundamental,9.79,52,10,6.49,22,8.45
+538,Aluno538,Masculino,,7.66,98,8,5.27,19,8.69
+539,Aluno539,Masculino,,9.75,98,8,8.22,25,7.41
+540,Aluno540,Feminino,Ensino Fundamental,7.99,68,7,8.85,18,9.56
+541,Aluno541,Feminino,Ensino Médio,5.75,67,6,5.4,16,8.34
+542,Aluno542,Masculino,,8.43,98,6,7.15,16,9.75
+543,Aluno543,Masculino,Ensino Fundamental,7.12,74,6,6.45,22,6.12
+544,Aluno544,Feminino,Ensino Médio,6.54,67,6,9.95,16,9.71
+545,Aluno545,Masculino,Ensino Fundamental,7.94,75,8,7.85,22,9.67
+546,Aluno546,Feminino,Ensino Médio,8.46,67,9,6.28,15,7.49
+547,Aluno547,Feminino,Ensino Médio,7.02,67,4,5.79,24,5.18
+548,Aluno548,Masculino,Ensino Superior,6.85,76,5,7.61,21,8.12
+549,Aluno549,Masculino,,9.84,98,8,6.34,17,9.77
+550,Aluno550,Masculino,,7.88,98,5,6.11,16,6.82
+551,Aluno551,Masculino,,7.4,98,5,5.04,15,8.1
+552,Aluno552,Feminino,,8.7,67,9,9.79,19,9.52
+553,Aluno553,Masculino,Ensino Fundamental,9.05,60,6,7.37,18,6.22
+554,Aluno554,Masculino,,6.4,75,10,5.04,22,9.54
+555,Aluno555,Feminino,,8.75,99,10,5.47,25,7.95
+556,Aluno556,Masculino,,5.63,98,5,7.66,24,8.5
+557,Aluno557,Feminino,Ensino Médio,5.64,67,10,5.9,22,5.76
+558,Aluno558,Masculino,Ensino Superior,9.6,53,9,7.3,24,9.97
+559,Aluno559,Masculino,,6.86,98,9,8.07,15,7.38
+560,Aluno560,Masculino,Ensino Superior,6.6,97,9,7.15,18,8.94
+561,Aluno561,Masculino,Ensino Superior,8.17,93,4,7.97,17,9.28
+562,Aluno562,Masculino,Ensino Fundamental,6.09,83,5,7.07,19,6.44
+563,Aluno563,Masculino,,7.56,98,7,8.61,16,9.58
+564,Aluno564,Feminino,Ensino Fundamental,8.07,59,10,9.9,25,9.09
+565,Aluno565,Masculino,,8.43,81,5,8.21,20,9.27
+566,Aluno566,Masculino,Ensino Fundamental,6.25,86,9,6.53,24,7.28
+567,Aluno567,Masculino,Ensino Superior,7.85,70,9,8.98,16,9.52
+568,Aluno568,Masculino,Ensino Superior,8.39,55,6,6.77,16,7.83
+569,Aluno569,Masculino,,5.19,98,9,9.97,18,8.01
+570,Aluno570,Masculino,Ensino Superior,5.61,50,5,8.71,17,7.19
+571,Aluno571,Masculino,Ensino Superior,9.14,76,10,7.78,16,5.25
+572,Aluno572,Masculino,,9.68,98,9,9.83,15,5.83
+573,Aluno573,Masculino,Ensino Fundamental,6.69,93,10,5.57,21,8.8
+574,Aluno574,Masculino,Ensino Fundamental,5.13,66,9,6.79,23,5.03
+575,Aluno575,Feminino,Ensino Fundamental,6.15,70,8,7.51,22,6.48
+576,Aluno576,Masculino,Ensino Superior,8.05,85,10,8.13,17,5.87
+577,Aluno577,Masculino,Ensino Superior,5.14,63,9,6.51,22,6.92
+578,Aluno578,Feminino,Ensino Médio,9.28,67,10,9.95,18,6.2
+579,Aluno579,Feminino,Ensino Fundamental,7.0,84,6,7.86,15,7.54
+580,Aluno580,Masculino,,5.97,98,6,8.6,21,9.18
+581,Aluno581,Feminino,Ensino Médio,8.98,67,6,8.5,25,9.0
+582,Aluno582,Masculino,,8.01,59,9,6.95,22,8.91
+583,Aluno583,Masculino,Ensino Superior,5.91,53,4,6.01,25,7.19
+584,Aluno584,Feminino,,6.43,62,7,9.18,20,7.82
+585,Aluno585,Masculino,,7.92,98,7,8.78,15,7.73
+586,Aluno586,Masculino,Ensino Superior,9.85,77,4,8.41,24,8.7
+587,Aluno587,Masculino,,5.05,98,10,5.18,18,9.96
+588,Aluno588,Feminino,Ensino Fundamental,9.67,100,6,9.75,19,8.93
+589,Aluno589,Feminino,Ensino Médio,6.31,67,9,7.14,20,8.84
+590,Aluno590,Masculino,,9.69,98,8,7.92,17,7.64
+591,Aluno591,Masculino,Ensino Fundamental,7.4,63,6,5.18,24,5.78
+592,Aluno592,Masculino,Ensino Superior,6.19,70,9,5.44,25,6.25
+593,Aluno593,Masculino,Ensino Superior,8.51,98,4,6.31,15,8.43
+594,Aluno594,Feminino,Ensino Fundamental,6.85,55,9,7.64,21,9.1
+595,Aluno595,Masculino,Ensino Superior,6.18,64,6,7.39,18,7.01
+596,Aluno596,Masculino,,5.21,98,10,7.13,22,8.0
+597,Aluno597,Masculino,Ensino Fundamental,9.7,58,9,7.14,24,5.25
+598,Aluno598,Feminino,Ensino Médio,8.73,67,9,7.93,24,6.1
+599,Aluno599,Feminino,Ensino Médio,7.23,67,6,7.67,15,9.29
+600,Aluno600,Feminino,Ensino Fundamental,8.88,69,4,5.11,19,8.54
+601,Aluno601,Masculino,Ensino Fundamental,9.55,50,10,9.18,23,9.76
+602,Aluno602,Masculino,,8.66,98,6,5.97,25,7.38
+603,Aluno603,Masculino,Ensino Superior,6.44,98,5,8.65,16,8.43
+604,Aluno604,Masculino,Ensino Superior,8.18,98,8,7.9,18,9.43
+605,Aluno605,Masculino,Ensino Fundamental,6.22,63,6,8.71,17,8.78
+606,Aluno606,Feminino,Ensino Médio,5.97,67,7,7.87,25,8.29
+607,Aluno607,Masculino,,5.51,98,6,7.71,17,8.62
+608,Aluno608,Masculino,Ensino Superior,8.85,93,5,9.31,20,7.75
+609,Aluno609,Masculino,Ensino Fundamental,6.88,85,9,7.81,17,8.7
+610,Aluno610,Masculino,,5.31,98,10,5.36,24,6.89
+611,Aluno611,Masculino,Ensino Superior,5.64,57,5,8.33,19,7.39
+612,Aluno612,Feminino,Ensino Médio,6.82,67,10,8.92,18,8.43
+613,Aluno613,Masculino,Ensino Superior,5.81,57,10,6.4,25,7.97
+614,Aluno614,Masculino,,8.78,98,6,8.59,23,6.67
+615,Aluno615,Masculino,Ensino Superior,9.04,89,5,7.05,22,7.26
+616,Aluno616,Masculino,Ensino Superior,9.76,64,10,9.84,24,7.42
+617,Aluno617,Masculino,Ensino Superior,9.13,68,4,9.44,16,7.2
+618,Aluno618,Feminino,Ensino Médio,7.92,67,9,5.22,15,7.16
+619,Aluno619,Masculino,Ensino Superior,9.5,98,5,7.82,25,6.44
+620,Aluno620,Masculino,Ensino Superior,7.5,63,4,8.63,17,6.95
+621,Aluno621,Masculino,,6.61,98,7,9.51,22,9.62
+622,Aluno622,Feminino,Ensino Fundamental,9.48,68,8,6.9,24,6.53
+623,Aluno623,Feminino,Ensino Médio,7.45,67,5,9.43,21,9.78
+624,Aluno624,Masculino,Ensino Superior,7.41,60,8,6.74,17,6.43
+625,Aluno625,Masculino,,7.24,98,6,8.44,17,6.04
+626,Aluno626,Feminino,Ensino Médio,9.16,67,10,5.33,23,7.7
+627,Aluno627,Masculino,,7.43,98,9,5.36,21,9.56
+628,Aluno628,Masculino,Ensino Fundamental,5.08,72,4,7.08,18,6.08
+629,Aluno629,Feminino,,5.5,67,4,6.0,19,9.53
+630,Aluno630,Masculino,,7.29,98,10,6.47,16,7.25
+631,Aluno631,Masculino,,5.3,98,6,8.51,23,7.43
+632,Aluno632,Feminino,Ensino Fundamental,8.78,79,4,8.33,15,6.17
+633,Aluno633,Feminino,Ensino Médio,7.92,67,4,6.12,21,8.48
+634,Aluno634,Masculino,Ensino Superior,6.28,58,7,7.43,18,8.42
+635,Aluno635,Feminino,Ensino Fundamental,7.63,79,7,9.98,15,5.57
+636,Aluno636,Feminino,Ensino Médio,9.92,67,5,6.59,20,6.87
+637,Aluno637,Masculino,Ensino Superior,9.76,95,4,6.21,17,9.35
+638,Aluno638,Feminino,Ensino Fundamental,5.57,67,7,9.94,19,9.18
+639,Aluno639,Feminino,Ensino Médio,5.14,67,9,9.89,23,9.12
+640,Aluno640,Feminino,Ensino Médio,6.79,67,5,9.46,17,9.98
+641,Aluno641,Feminino,Ensino Fundamental,6.49,62,9,8.83,17,5.11
+642,Aluno642,Masculino,,8.11,98,8,7.18,21,9.98
+643,Aluno643,Feminino,Ensino Médio,9.61,67,6,6.47,18,6.57
+644,Aluno644,Feminino,,8.51,67,5,7.88,20,7.01
+645,Aluno645,Masculino,Ensino Superior,8.28,83,7,9.62,15,8.13
+646,Aluno646,Feminino,Ensino Fundamental,6.73,75,6,7.72,15,6.85
+647,Aluno647,Feminino,Ensino Fundamental,7.05,61,7,6.85,25,9.13
+648,Aluno648,Feminino,Ensino Fundamental,9.59,75,4,8.41,22,6.4
+649,Aluno649,Masculino,,8.81,98,10,7.34,18,5.32
+650,Aluno650,Masculino,Ensino Superior,7.89,55,4,6.72,20,6.68
+651,Aluno651,Masculino,,9.11,94,10,8.62,18,7.09
+652,Aluno652,Masculino,Ensino Superior,6.37,62,6,8.94,18,6.28
+653,Aluno653,Feminino,Ensino Fundamental,6.9,84,5,6.08,15,5.25
+654,Aluno654,Masculino,,6.35,81,5,8.95,16,9.85
+655,Aluno655,Masculino,Ensino Superior,7.6,80,4,5.99,17,7.06
+656,Aluno656,Masculino,Ensino Superior,9.97,97,5,5.1,21,9.39
+657,Aluno657,Masculino,Ensino Superior,5.18,62,10,6.2,25,5.87
+658,Aluno658,Masculino,Ensino Superior,8.59,97,10,7.52,16,6.19
+659,Aluno659,Masculino,Ensino Fundamental,7.99,83,5,5.89,24,9.65
+660,Aluno660,Feminino,Ensino Médio,7.34,67,6,7.34,25,9.83
+661,Aluno661,Masculino,Ensino Superior,8.51,56,6,5.59,19,7.79
+662,Aluno662,Feminino,Ensino Fundamental,7.44,61,9,6.72,16,8.24
+663,Aluno663,Masculino,Ensino Fundamental,5.85,60,5,6.7,24,5.61
+664,Aluno664,Masculino,,5.92,98,4,8.42,23,8.63
+665,Aluno665,Masculino,Ensino Fundamental,8.73,69,10,8.09,22,5.68
+666,Aluno666,Masculino,Ensino Superior,8.66,54,4,5.18,23,7.12
+667,Aluno667,Masculino,,5.21,98,4,7.05,17,8.98
+668,Aluno668,Masculino,Ensino Superior,5.5,55,5,8.38,17,6.15
+669,Aluno669,Masculino,Ensino Fundamental,7.28,83,9,7.9,20,9.98
+670,Aluno670,Feminino,Ensino Fundamental,5.16,86,4,7.39,25,6.7
+671,Aluno671,Masculino,,9.39,98,5,6.87,24,8.12
+672,Aluno672,Feminino,,9.71,67,9,8.82,17,9.8
+673,Aluno673,Feminino,Ensino Médio,8.56,67,8,6.18,21,6.73
+674,Aluno674,Feminino,Ensino Médio,5.89,67,6,9.06,19,9.15
+675,Aluno675,Feminino,Ensino Fundamental,7.22,61,4,5.66,17,6.15
+676,Aluno676,Feminino,Ensino Fundamental,7.62,87,4,6.32,20,8.06
+677,Aluno677,Masculino,Ensino Superior,8.77,83,8,8.95,22,7.26
+678,Aluno678,Feminino,Ensino Fundamental,9.25,52,4,7.83,24,6.28
+679,Aluno679,Masculino,Ensino Superior,7.87,53,8,5.29,22,8.49
+680,Aluno680,Masculino,Ensino Superior,5.59,60,5,5.03,22,7.85
+681,Aluno681,Masculino,Ensino Superior,9.11,60,5,5.7,22,8.06
+682,Aluno682,Masculino,Ensino Fundamental,6.42,73,6,8.64,23,9.15
+683,Aluno683,Masculino,Ensino Superior,8.21,74,8,6.23,17,9.59
+684,Aluno684,Masculino,,9.48,71,5,7.57,15,7.7
+685,Aluno685,Masculino,Ensino Superior,7.12,70,6,8.72,19,9.58
+686,Aluno686,Feminino,Ensino Fundamental,8.73,65,5,6.06,17,9.2
+687,Aluno687,Feminino,Ensino Fundamental,7.06,85,10,9.67,24,9.49
+688,Aluno688,Masculino,,8.4,87,10,7.03,20,9.45
+689,Aluno689,Masculino,Ensino Superior,8.18,99,9,7.67,16,6.34
+690,Aluno690,Masculino,Ensino Superior,5.14,80,7,6.82,16,9.16
+691,Aluno691,Masculino,Ensino Superior,6.36,69,10,8.44,22,9.39
+692,Aluno692,Masculino,,8.63,81,4,5.9,25,9.3
+693,Aluno693,Masculino,Ensino Superior,9.01,74,4,6.47,23,5.67
+694,Aluno694,Feminino,Ensino Fundamental,6.81,53,6,7.74,20,6.92
+695,Aluno695,Masculino,,8.3,98,6,8.28,22,9.45
+696,Aluno696,Feminino,Ensino Fundamental,6.47,72,8,9.77,25,5.35
+697,Aluno697,Masculino,,7.64,98,8,7.12,19,6.58
+698,Aluno698,Masculino,Ensino Fundamental,5.91,58,7,6.01,22,5.03
+699,Aluno699,Masculino,Ensino Superior,5.89,96,8,9.6,15,5.55
+700,Aluno700,Masculino,Ensino Superior,6.57,67,7,9.76,18,9.67
+701,Aluno701,Masculino,Ensino Superior,7.78,91,7,7.76,18,6.99
+702,Aluno702,Masculino,Ensino Superior,9.16,90,7,9.87,25,6.34
+703,Aluno703,Masculino,,5.84,98,7,8.9,25,6.46
+704,Aluno704,Feminino,Ensino Fundamental,6.18,56,8,8.55,17,6.24
+705,Aluno705,Feminino,Ensino Médio,6.33,67,8,6.16,24,5.63
+706,Aluno706,Masculino,Ensino Superior,7.85,65,10,5.89,22,9.99
+707,Aluno707,Masculino,Ensino Superior,5.16,67,10,6.13,16,7.55
+708,Aluno708,Masculino,Ensino Superior,6.12,97,8,7.05,21,6.36
+709,Aluno709,Masculino,Ensino Fundamental,7.12,71,10,8.55,20,7.22
+710,Aluno710,Masculino,Ensino Superior,9.11,95,10,7.06,23,6.15
+711,Aluno711,Masculino,Ensino Superior,9.1,51,7,9.77,21,5.62
+712,Aluno712,Masculino,,8.5,98,8,5.22,16,8.73
+713,Aluno713,Masculino,Ensino Fundamental,7.54,63,10,6.95,18,6.25
+714,Aluno714,Masculino,Ensino Fundamental,5.05,68,6,8.76,24,9.79
+715,Aluno715,Masculino,Ensino Superior,9.6,52,4,7.83,19,9.38
+716,Aluno716,Masculino,,5.84,98,10,9.87,22,8.22
+717,Aluno717,Masculino,Ensino Superior,5.63,69,9,9.64,22,6.06
+718,Aluno718,Masculino,,6.4,98,7,8.67,21,5.85
+719,Aluno719,Masculino,Ensino Superior,7.38,97,5,6.41,25,7.94
+720,Aluno720,Feminino,Ensino Fundamental,5.4,56,7,5.42,19,5.38
+721,Aluno721,Masculino,,7.44,98,4,8.79,21,5.23
+722,Aluno722,Masculino,Ensino Superior,7.47,78,6,6.56,20,7.03
+723,Aluno723,Masculino,Ensino Fundamental,8.12,79,10,5.57,24,5.43
+724,Aluno724,Feminino,Ensino Médio,9.68,67,6,5.96,19,5.64
+725,Aluno725,Masculino,Ensino Fundamental,8.89,50,10,9.44,23,7.5
+726,Aluno726,Masculino,,6.16,98,6,7.1,15,9.2
+727,Aluno727,Masculino,Ensino Superior,6.57,83,5,5.03,18,5.08
+728,Aluno728,Masculino,Ensino Fundamental,5.44,55,6,5.08,15,5.53
+729,Aluno729,Masculino,,7.87,98,5,5.25,22,7.14
+730,Aluno730,Masculino,,6.87,99,10,5.73,17,8.93
+731,Aluno731,Feminino,Ensino Médio,9.23,67,8,9.83,21,7.07
+732,Aluno732,Feminino,,8.47,67,9,7.02,25,5.3
+733,Aluno733,Masculino,Ensino Superior,5.75,93,9,6.97,21,8.17
+734,Aluno734,Masculino,Ensino Superior,6.77,92,8,5.9,19,8.19
+735,Aluno735,Masculino,Ensino Fundamental,9.32,100,8,6.77,15,9.93
+736,Aluno736,Masculino,Ensino Superior,5.3,97,4,6.53,17,8.03
+737,Aluno737,Masculino,Ensino Superior,6.57,77,10,7.01,16,6.78
+738,Aluno738,Masculino,,7.99,98,5,5.97,15,9.59
+739,Aluno739,Feminino,,8.33,87,5,9.37,23,8.34
+740,Aluno740,Masculino,Ensino Fundamental,7.12,61,7,8.24,21,5.16
+741,Aluno741,Masculino,Ensino Fundamental,7.19,83,8,9.91,24,8.94
+742,Aluno742,Masculino,,7.43,98,4,7.95,16,8.15
+743,Aluno743,Masculino,,7.94,85,4,5.93,16,9.86
+744,Aluno744,Masculino,,6.51,98,8,9.55,21,5.6
+745,Aluno745,Masculino,Ensino Superior,6.07,98,10,6.06,22,5.52
+746,Aluno746,Masculino,,9.43,98,9,6.42,22,8.08
+747,Aluno747,Masculino,,6.73,62,7,9.16,21,7.08
+748,Aluno748,Feminino,Ensino Médio,5.34,67,4,7.99,21,9.77
+749,Aluno749,Masculino,Ensino Superior,5.0,85,10,5.85,22,7.52
+750,Aluno750,Feminino,Ensino Fundamental,9.39,84,9,8.2,22,8.3
+751,Aluno751,Masculino,,8.71,78,10,7.97,17,5.22
+752,Aluno752,Masculino,Ensino Superior,8.64,88,8,6.76,24,9.37
+753,Aluno753,Masculino,Ensino Superior,7.2,58,10,5.97,17,6.05
+754,Aluno754,Masculino,,9.67,98,4,5.95,22,8.44
+755,Aluno755,Masculino,Ensino Fundamental,6.46,76,7,7.25,24,6.35
+756,Aluno756,Feminino,Ensino Fundamental,8.37,70,4,9.79,21,9.94
+757,Aluno757,Masculino,Ensino Fundamental,6.44,89,9,6.85,24,9.65
+758,Aluno758,Masculino,,7.46,98,4,8.88,23,8.63
+759,Aluno759,Masculino,Ensino Superior,7.68,80,6,9.04,20,9.83
+760,Aluno760,Feminino,Ensino Fundamental,9.98,100,8,9.28,21,8.26
+761,Aluno761,Feminino,Ensino Fundamental,6.16,69,10,5.65,17,5.4
+762,Aluno762,Masculino,Ensino Superior,8.76,71,8,5.87,18,9.26
+763,Aluno763,Masculino,Ensino Superior,8.36,67,4,8.88,18,8.05
+764,Aluno764,Masculino,,8.14,98,8,8.54,23,6.29
+765,Aluno765,Masculino,,9.79,98,10,6.28,15,9.93
+766,Aluno766,Masculino,Ensino Fundamental,7.23,54,7,9.19,23,7.08
+767,Aluno767,Masculino,Ensino Superior,6.07,50,5,5.33,24,9.55
+768,Aluno768,Feminino,Ensino Fundamental,6.41,87,6,7.2,22,5.7
+769,Aluno769,Masculino,Ensino Superior,8.86,90,5,7.46,17,7.82
+770,Aluno770,Masculino,,6.79,56,4,9.48,23,7.33
+771,Aluno771,Feminino,Ensino Fundamental,8.79,99,9,6.59,25,8.26
+772,Aluno772,Masculino,,8.75,98,9,8.07,21,5.44
+773,Aluno773,Masculino,Ensino Superior,6.26,90,7,6.55,23,9.47
+774,Aluno774,Masculino,Ensino Superior,9.89,73,4,8.8,21,5.0
+775,Aluno775,Masculino,Ensino Superior,8.28,96,9,9.42,19,8.28
+776,Aluno776,Feminino,Ensino Fundamental,5.11,74,9,5.74,15,9.73
+777,Aluno777,Masculino,,5.24,98,6,9.86,25,8.68
+778,Aluno778,Feminino,Ensino Fundamental,7.2,80,7,5.6,23,5.97
+779,Aluno779,Masculino,Ensino Fundamental,6.3,95,5,5.64,23,9.35
+780,Aluno780,Masculino,,9.17,98,6,5.37,21,9.07
+781,Aluno781,Masculino,Ensino Superior,7.25,89,5,7.48,21,8.08
+782,Aluno782,Masculino,Ensino Superior,9.47,99,9,6.76,22,9.62
+783,Aluno783,Masculino,,7.27,58,10,8.19,15,9.96
+784,Aluno784,Feminino,Ensino Médio,6.54,67,7,8.59,17,9.75
+785,Aluno785,Masculino,Ensino Fundamental,9.54,96,7,7.61,25,5.09
+786,Aluno786,Masculino,,8.63,98,8,5.49,17,9.32
+787,Aluno787,Feminino,,8.82,67,8,7.71,21,7.42
+788,Aluno788,Feminino,,5.56,67,5,8.15,20,8.17
+789,Aluno789,Masculino,Ensino Superior,9.52,59,8,9.59,23,8.28
+790,Aluno790,Masculino,,9.65,50,10,8.18,16,8.7
+791,Aluno791,Masculino,Ensino Fundamental,8.85,63,9,7.5,25,8.03
+792,Aluno792,Feminino,Ensino Médio,9.35,67,8,6.45,25,9.19
+793,Aluno793,Feminino,Ensino Fundamental,6.43,83,6,9.6,21,7.97
+794,Aluno794,Masculino,Ensino Superior,9.1,88,8,8.82,20,8.64
+795,Aluno795,Feminino,Ensino Médio,7.74,67,10,6.12,17,6.03
+796,Aluno796,Masculino,Ensino Fundamental,7.58,79,8,7.57,16,7.78
+797,Aluno797,Masculino,Ensino Fundamental,6.49,71,10,5.15,24,7.8
+798,Aluno798,Masculino,Ensino Superior,5.25,59,6,9.42,18,5.16
+799,Aluno799,Feminino,Ensino Fundamental,5.1,92,9,8.38,19,6.99
+800,Aluno800,Masculino,Ensino Superior,5.88,86,9,6.06,20,7.18
+801,Aluno801,Feminino,Ensino Fundamental,5.64,93,7,8.53,15,9.96
+802,Aluno802,Feminino,Ensino Médio,6.68,67,8,8.75,18,9.09
+803,Aluno803,Masculino,,7.8,98,7,7.15,20,9.68
+804,Aluno804,Masculino,Ensino Superior,8.9,75,5,7.35,22,9.1
+805,Aluno805,Feminino,Ensino Médio,6.97,67,9,7.19,16,8.58
+806,Aluno806,Masculino,Ensino Superior,6.12,86,5,6.71,16,8.1
+807,Aluno807,Feminino,Ensino Fundamental,7.0,57,8,5.19,15,9.83
+808,Aluno808,Feminino,Ensino Fundamental,8.03,67,9,7.09,18,5.65
+809,Aluno809,Masculino,Ensino Fundamental,8.23,62,8,8.22,23,9.76
+810,Aluno810,Masculino,,7.22,98,7,8.32,19,5.77
+811,Aluno811,Masculino,,7.16,98,9,8.46,15,8.87
+812,Aluno812,Masculino,Ensino Fundamental,7.13,100,4,7.82,25,7.9
+813,Aluno813,Masculino,Ensino Superior,9.38,80,7,8.62,25,9.89
+814,Aluno814,Masculino,Ensino Superior,5.85,55,5,9.5,19,7.28
+815,Aluno815,Masculino,Ensino Superior,5.88,53,4,9.52,23,8.53
+816,Aluno816,Masculino,Ensino Superior,6.23,82,10,8.86,17,6.42
+817,Aluno817,Masculino,Ensino Fundamental,8.94,75,7,7.55,24,8.62
+818,Aluno818,Masculino,Ensino Fundamental,7.83,67,7,5.11,16,8.76
+819,Aluno819,Masculino,,6.61,82,4,7.57,17,8.47
+820,Aluno820,Masculino,Ensino Fundamental,6.4,96,6,9.44,23,7.91
+821,Aluno821,Feminino,Ensino Médio,7.19,67,5,6.19,21,6.65
+822,Aluno822,Masculino,Ensino Fundamental,8.21,87,8,7.35,24,7.43
+823,Aluno823,Masculino,Ensino Superior,8.43,99,6,8.16,24,8.93
+824,Aluno824,Masculino,Ensino Fundamental,6.96,73,6,5.19,24,8.09
+825,Aluno825,Feminino,Ensino Fundamental,5.01,80,4,7.11,16,6.31
+826,Aluno826,Masculino,,9.81,98,4,5.88,19,8.02
+827,Aluno827,Masculino,Ensino Superior,7.67,83,5,9.32,20,8.17
+828,Aluno828,Masculino,Ensino Superior,7.89,96,8,9.42,22,9.58
+829,Aluno829,Masculino,Ensino Superior,7.67,97,4,7.22,17,9.58
+830,Aluno830,Masculino,,7.49,98,6,9.68,23,8.82
+831,Aluno831,Masculino,,6.45,98,8,5.12,21,5.46
+832,Aluno832,Masculino,Ensino Superior,7.02,85,5,5.49,23,6.73
+833,Aluno833,Feminino,Ensino Médio,9.05,67,4,6.34,22,5.93
+834,Aluno834,Masculino,Ensino Superior,9.36,60,9,9.47,22,9.54
+835,Aluno835,Masculino,,8.49,98,5,5.4,16,8.3
+836,Aluno836,Masculino,,8.56,98,6,7.29,19,6.53
+837,Aluno837,Masculino,,5.49,97,9,5.29,21,7.13
+838,Aluno838,Masculino,Ensino Superior,9.45,85,4,8.65,18,9.98
+839,Aluno839,Feminino,Ensino Fundamental,8.28,72,8,9.94,23,8.2
+840,Aluno840,Masculino,Ensino Superior,9.87,57,5,7.09,21,9.25
+841,Aluno841,Masculino,Ensino Fundamental,7.94,75,10,8.41,15,8.3
+842,Aluno842,Masculino,Ensino Fundamental,8.83,90,9,8.61,23,6.92
+843,Aluno843,Masculino,Ensino Fundamental,8.09,52,5,5.85,20,8.99
+844,Aluno844,Masculino,Ensino Superior,7.01,60,4,7.09,15,9.81
+845,Aluno845,Masculino,,5.86,98,6,9.62,19,7.35
+846,Aluno846,Masculino,,6.59,98,7,9.86,19,6.15
+847,Aluno847,Masculino,Ensino Fundamental,9.49,56,7,7.63,18,6.48
+848,Aluno848,Masculino,Ensino Superior,7.45,69,5,7.45,17,6.79
+849,Aluno849,Masculino,Ensino Superior,5.82,54,7,9.59,23,9.38
+850,Aluno850,Masculino,,8.38,98,7,6.51,24,7.83
+851,Aluno851,Feminino,Ensino Fundamental,7.33,65,6,9.75,18,6.09
+852,Aluno852,Feminino,Ensino Médio,8.21,67,6,5.62,15,7.73
+853,Aluno853,Masculino,Ensino Fundamental,5.5,99,8,9.32,16,6.13
+854,Aluno854,Feminino,Ensino Fundamental,5.1,87,6,5.25,22,9.88
+855,Aluno855,Feminino,,9.64,67,6,7.3,18,7.99
+856,Aluno856,Masculino,Ensino Superior,6.5,79,7,7.72,18,8.76
+857,Aluno857,Feminino,Ensino Fundamental,9.31,92,5,5.49,25,5.41
+858,Aluno858,Masculino,Ensino Superior,6.58,63,4,8.88,18,9.97
+859,Aluno859,Masculino,Ensino Superior,5.34,98,5,5.68,22,7.68
+860,Aluno860,Masculino,Ensino Fundamental,7.16,75,9,5.82,22,9.05
+861,Aluno861,Masculino,,5.95,98,8,7.65,16,7.45
+862,Aluno862,Masculino,,6.72,69,9,9.25,15,6.71
+863,Aluno863,Feminino,,8.06,67,7,6.61,22,9.22
+864,Aluno864,Feminino,,5.83,51,4,6.34,20,9.22
+865,Aluno865,Masculino,,8.9,98,10,7.74,18,5.05
+866,Aluno866,Masculino,,9.37,53,10,7.34,19,7.25
+867,Aluno867,Masculino,Ensino Fundamental,7.68,75,6,7.64,19,8.92
+868,Aluno868,Feminino,Ensino Fundamental,6.55,70,5,5.79,22,7.48
+869,Aluno869,Masculino,,8.2,98,4,5.78,25,9.43
+870,Aluno870,Feminino,Ensino Médio,5.5,67,10,7.97,20,9.49
+871,Aluno871,Masculino,,8.92,98,4,7.69,25,7.13
+872,Aluno872,Masculino,,6.5,98,10,8.3,19,8.3
+873,Aluno873,Masculino,,8.42,98,7,9.03,23,7.28
+874,Aluno874,Masculino,,9.27,60,10,9.6,25,8.77
+875,Aluno875,Masculino,,6.67,98,7,6.2,16,7.39
+876,Aluno876,Feminino,Ensino Médio,6.24,67,8,9.66,18,5.13
+877,Aluno877,Masculino,Ensino Fundamental,7.72,80,6,9.08,19,5.41
+878,Aluno878,Masculino,,8.32,85,6,6.3,22,6.4
+879,Aluno879,Masculino,Ensino Fundamental,5.71,56,5,8.52,25,6.67
+880,Aluno880,Masculino,Ensino Superior,5.26,70,8,7.58,24,8.29
+881,Aluno881,Masculino,Ensino Superior,8.2,80,6,8.71,24,9.13
+882,Aluno882,Feminino,Ensino Fundamental,7.66,79,6,9.3,18,9.36
+883,Aluno883,Feminino,Ensino Médio,5.91,67,6,9.11,17,9.72
+884,Aluno884,Masculino,Ensino Superior,6.03,77,5,7.84,17,8.28
+885,Aluno885,Masculino,Ensino Fundamental,6.45,66,5,5.43,21,8.01
+886,Aluno886,Masculino,Ensino Superior,6.37,70,10,8.81,22,9.38
+887,Aluno887,Feminino,Ensino Médio,7.74,67,6,6.56,25,8.14
+888,Aluno888,Masculino,,9.93,98,4,7.37,18,6.91
+889,Aluno889,Masculino,Ensino Superior,6.66,97,7,7.87,22,5.97
+890,Aluno890,Feminino,Ensino Fundamental,7.68,63,7,8.48,20,7.43
+891,Aluno891,Masculino,,5.53,98,6,7.54,17,8.59
+892,Aluno892,Feminino,Ensino Médio,8.41,67,7,7.93,17,6.34
+893,Aluno893,Masculino,Ensino Fundamental,8.97,65,7,8.22,15,5.71
+894,Aluno894,Masculino,Ensino Superior,6.06,55,8,8.94,20,7.98
+895,Aluno895,Feminino,Ensino Fundamental,5.25,89,8,7.02,15,9.27
+896,Aluno896,Masculino,Ensino Fundamental,9.1,67,9,5.54,22,9.23
+897,Aluno897,Masculino,Ensino Superior,8.1,71,5,6.0,24,9.19
+898,Aluno898,Masculino,,5.85,98,7,9.34,20,7.35
+899,Aluno899,Masculino,Ensino Superior,9.12,59,10,6.98,24,6.24
+900,Aluno900,Masculino,Ensino Superior,9.41,57,4,6.21,21,6.7
+901,Aluno901,Masculino,,8.13,98,5,9.09,16,5.44
+902,Aluno902,Masculino,Ensino Superior,8.43,61,4,7.44,15,6.49
+903,Aluno903,Feminino,Ensino Médio,9.6,67,9,7.89,15,7.32
+904,Aluno904,Masculino,,9.1,98,5,7.9,16,7.43
+905,Aluno905,Feminino,Ensino Fundamental,8.5,54,10,5.76,22,7.02
+906,Aluno906,Masculino,Ensino Superior,9.68,60,8,7.84,16,6.95
+907,Aluno907,Masculino,Ensino Superior,5.09,79,4,8.16,15,7.09
+908,Aluno908,Feminino,Ensino Fundamental,9.65,70,8,7.06,20,6.77
+909,Aluno909,Masculino,Ensino Fundamental,9.95,65,10,9.9,17,9.19
+910,Aluno910,Feminino,Ensino Médio,7.01,67,4,6.18,21,7.92
+911,Aluno911,Feminino,Ensino Médio,9.94,67,7,9.82,17,5.4
+912,Aluno912,Masculino,,9.84,98,9,7.12,22,6.02
+913,Aluno913,Masculino,Ensino Superior,7.44,79,10,8.22,23,9.86
+914,Aluno914,Masculino,Ensino Superior,6.06,63,4,5.26,25,8.86
+915,Aluno915,Masculino,Ensino Fundamental,7.86,92,6,8.08,25,5.09
+916,Aluno916,Masculino,,8.13,51,7,6.66,15,8.37
+917,Aluno917,Masculino,Ensino Fundamental,9.05,96,4,6.61,19,8.41
+918,Aluno918,Masculino,,5.58,98,7,7.92,25,9.56
+919,Aluno919,Masculino,Ensino Superior,7.45,98,6,7.51,24,7.82
+920,Aluno920,Feminino,Ensino Médio,7.18,67,4,9.84,24,9.87
+921,Aluno921,Masculino,,7.07,98,9,7.94,15,8.91
+922,Aluno922,Masculino,Ensino Superior,8.83,89,7,9.72,18,9.2
+923,Aluno923,Masculino,,9.5,98,5,7.6,21,7.95
+924,Aluno924,Masculino,,8.94,98,5,9.55,17,5.35
+925,Aluno925,Masculino,Ensino Superior,7.38,60,9,7.33,16,9.01
+926,Aluno926,Masculino,,6.73,96,7,9.77,20,7.65
+927,Aluno927,Feminino,Ensino Fundamental,9.48,68,4,9.12,17,5.53
+928,Aluno928,Feminino,Ensino Médio,6.63,67,9,9.78,21,7.5
+929,Aluno929,Masculino,Ensino Superior,9.28,75,5,5.24,24,6.86
+930,Aluno930,Masculino,Ensino Superior,6.12,96,9,7.39,22,5.84
+931,Aluno931,Masculino,,5.57,52,4,7.77,20,7.12
+932,Aluno932,Masculino,Ensino Superior,9.15,74,8,7.15,17,5.63
+933,Aluno933,Masculino,Ensino Superior,7.07,79,4,5.55,18,7.19
+934,Aluno934,Feminino,Ensino Médio,8.9,67,5,9.84,23,6.9
+935,Aluno935,Masculino,,8.41,98,4,5.07,18,8.42
+936,Aluno936,Masculino,Ensino Fundamental,7.67,64,10,6.2,15,9.96
+937,Aluno937,Masculino,Ensino Superior,9.31,70,5,8.08,18,6.09
+938,Aluno938,Masculino,,9.61,98,9,6.42,15,6.9
+939,Aluno939,Feminino,Ensino Fundamental,9.04,72,7,6.53,16,7.28
+940,Aluno940,Masculino,,6.36,59,9,7.73,16,9.47
+941,Aluno941,Feminino,,5.22,67,8,7.2,18,5.41
+942,Aluno942,Feminino,,6.95,55,10,8.15,19,5.44
+943,Aluno943,Masculino,,9.93,70,10,7.82,22,7.92
+944,Aluno944,Masculino,Ensino Superior,6.92,79,6,6.76,24,7.42
+945,Aluno945,Masculino,Ensino Superior,5.16,92,10,6.05,18,5.85
+946,Aluno946,Masculino,,8.68,76,8,5.68,21,6.62
+947,Aluno947,Feminino,Ensino Fundamental,6.69,74,8,7.68,16,5.18
+948,Aluno948,Masculino,Ensino Fundamental,6.82,91,8,5.91,18,8.47
+949,Aluno949,Masculino,Ensino Fundamental,5.44,57,8,8.93,19,8.13
+950,Aluno950,Feminino,Ensino Médio,9.81,67,7,8.71,20,5.2
+951,Aluno951,Masculino,Ensino Fundamental,7.04,61,7,7.92,22,6.39
+952,Aluno952,Feminino,Ensino Fundamental,8.46,53,6,9.65,23,9.65
+953,Aluno953,Masculino,,8.26,98,8,8.38,24,6.82
+954,Aluno954,Masculino,Ensino Superior,8.49,52,6,6.1,25,7.53
+955,Aluno955,Masculino,Ensino Superior,9.45,72,7,5.75,23,9.31
+956,Aluno956,Feminino,Ensino Fundamental,7.38,53,9,6.16,18,5.96
+957,Aluno957,Masculino,Ensino Fundamental,5.67,65,7,7.37,16,9.79
+958,Aluno958,Masculino,,7.84,98,4,8.88,15,9.4
+959,Aluno959,Feminino,Ensino Fundamental,8.92,78,6,7.87,20,8.83
+960,Aluno960,Feminino,Ensino Fundamental,8.39,87,5,6.77,23,5.41
+961,Aluno961,Masculino,Ensino Superior,7.22,100,4,8.87,22,8.34
+962,Aluno962,Masculino,Ensino Fundamental,9.53,97,4,8.22,16,7.18
+963,Aluno963,Masculino,Ensino Superior,8.21,86,4,7.08,20,9.16
+964,Aluno964,Masculino,Ensino Superior,8.1,53,10,7.4,22,8.89
+965,Aluno965,Masculino,Ensino Fundamental,6.77,100,8,5.66,21,7.88
+966,Aluno966,Feminino,Ensino Médio,5.23,67,5,9.02,19,6.68
+967,Aluno967,Masculino,Ensino Superior,8.18,61,7,8.09,25,6.45
+968,Aluno968,Masculino,Ensino Superior,7.1,93,9,8.25,22,8.29
+969,Aluno969,Masculino,,7.99,98,4,9.35,25,9.62
+970,Aluno970,Masculino,Ensino Superior,8.98,65,5,8.26,18,9.09
+971,Aluno971,Masculino,Ensino Fundamental,9.44,98,4,7.14,24,7.59
+972,Aluno972,Feminino,Ensino Fundamental,9.65,90,6,6.02,24,5.77
+973,Aluno973,Masculino,,8.16,98,7,9.49,21,8.48
+974,Aluno974,Feminino,Ensino Médio,5.71,67,8,7.4,24,5.89
+975,Aluno975,Masculino,Ensino Fundamental,9.29,89,10,9.17,16,6.78
+976,Aluno976,Masculino,Ensino Superior,9.76,78,8,7.86,19,8.85
+977,Aluno977,Feminino,Ensino Médio,8.02,67,5,7.83,18,5.92
+978,Aluno978,Masculino,,9.65,98,8,9.52,16,7.54
+979,Aluno979,Feminino,Ensino Médio,7.34,67,9,5.76,17,5.7
+980,Aluno980,Feminino,Ensino Fundamental,8.96,62,7,7.28,22,7.8
+981,Aluno981,Masculino,Ensino Superior,7.0,74,8,8.81,19,8.29
+982,Aluno982,Feminino,Ensino Médio,5.79,67,7,6.94,18,5.32
+983,Aluno983,Masculino,Ensino Fundamental,6.0,57,8,8.25,16,8.39
+984,Aluno984,Masculino,Ensino Superior,6.94,68,6,7.86,23,5.92
+985,Aluno985,Masculino,,5.34,97,7,5.62,25,7.07
+986,Aluno986,Masculino,Ensino Fundamental,8.18,82,8,5.83,24,6.26
+987,Aluno987,Masculino,Ensino Superior,8.03,92,9,7.52,25,9.68
+988,Aluno988,Feminino,Ensino Fundamental,9.27,59,6,8.27,25,6.03
+989,Aluno989,Feminino,Ensino Fundamental,8.12,71,5,8.82,22,8.06
+990,Aluno990,Masculino,Ensino Superior,9.68,75,5,9.67,16,7.09
+991,Aluno991,Feminino,Ensino Médio,8.48,67,6,7.1,23,5.25
+992,Aluno992,Feminino,Ensino Médio,6.48,67,5,5.32,19,7.99
+993,Aluno993,Masculino,Ensino Superior,7.86,82,5,7.58,21,5.51
+994,Aluno994,Feminino,Ensino Fundamental,8.14,79,4,9.87,19,8.04
+995,Aluno995,Masculino,Ensino Superior,6.0,92,9,5.63,24,7.53
+996,Aluno996,Feminino,Ensino Fundamental,5.48,57,9,6.11,25,6.67
+997,Aluno997,Masculino,Ensino Superior,6.22,53,4,6.25,15,6.16
+998,Aluno998,Feminino,Ensino Fundamental,6.67,83,7,8.54,25,7.47
+999,Aluno999,Masculino,Ensino Fundamental,8.71,67,5,8.64,18,7.97
+1000,Aluno1000,Feminino,Ensino Médio,9.53,67,6,9.09,22,7.79

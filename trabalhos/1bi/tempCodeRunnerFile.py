@@ -1,1 +1,0 @@
-print("Saindo do programa...")
