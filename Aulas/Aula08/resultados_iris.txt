@@ -1,0 +1,2 @@
+Acurácia de KNN:  100.00%
+Acurácia de SVM:  100.00%
